@@ -13,4 +13,5 @@ body,
   width: 100%;
   min-height: 100vh;
   background-color: #2b2840;
+  -webkit-font-smoothing: antialiased !important;
 }
